@@ -1,0 +1,33 @@
+/*one*/
+.global{
+    background-color: rgba(248, 246, 227, 0.6);
+}
+
+.go-up{
+    background-color: rgb(248, 246, 227);
+}
+
+/*two*/
+#sidebar{
+    background-color: #97E7E1;
+}
+
+/*four*/
+.btn{
+    background-color: #7AA2E3;
+}
+
+/*four*/
+.user-form .btn-send button{
+    background-color: #7AA2E3;
+}
+
+/*four*/
+.logo{
+    background-color: rgba(122, 162, 227, 0.5);
+}
+
+/*four*/
+.menu a:hover{
+    background-color: rgba(122, 162, 227, 0.5);
+}
